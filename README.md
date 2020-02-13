@@ -1,0 +1,2 @@
+# RIP_Blog_Contribution
+本仓库为RIP_Blog的投稿接收处之一，大家向本仓库提交pull request即为向RIP_Blog投稿。
